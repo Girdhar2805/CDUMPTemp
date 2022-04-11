@@ -1,15 +1,14 @@
 import React from 'react'
 import '../components/Container/MainContainer.css'
 
-export default  function AboutUs() {
+export default  function Organization() {
   return (
     <main>
       <section>
         <div>
-          <p>AboutUs Page</p>
-          </div>
+          <p>Organization Page</p>
+        </div>
       </section>
     </main>
-
   )
 }
