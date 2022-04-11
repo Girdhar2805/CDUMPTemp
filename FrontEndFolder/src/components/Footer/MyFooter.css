@@ -1,0 +1,13 @@
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+}
+
+
+footer p{
+    text-align: center;
+    padding: 10px;
+    color: goldenrod;
+}
