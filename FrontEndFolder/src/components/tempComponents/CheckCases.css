@@ -1,0 +1,16 @@
+
+.dual-container {
+    display: flex;
+    margin-top: 10px ;
+    border: 2px solid red; 
+}
+
+.dual-child {
+    margin: 5px;
+    flex: 1;
+    border: 2px solid yellow;
+}  
+
+.dual-child:first-child {
+    margin-right: 20px;
+} 
